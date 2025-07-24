@@ -17,6 +17,12 @@ https://langchain-ai.github.io/langgraph/concepts/multi_agent/
  # click here for  my step by step tutorial👇👇
 https://github.com/ujjwal-basnet/Google-ish/blob/main/email_agent.ipynb
 
+(sample output ) (need to do a lots of more work) 
+
+![IMG_1946](https://github.com/user-attachments/assets/e479c951-c1d1-4d78-a058-4d66428a0703)
+
+
+![IMG_1947](https://github.com/user-attachments/assets/c01d34a3-3e76-430e-83dd-1bcd9167a982)
 
 
 
